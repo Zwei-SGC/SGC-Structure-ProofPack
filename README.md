@@ -38,3 +38,11 @@ SGC Constructive Core is protected under the declared license and may only be us
 ---
 
 🧠 *SGC: Because Language is not a Tool, but a Structure.*
+
+| File Name | Description | IPFS CID |
+|-----------|-------------|----------|
+| `SGC-ProofPack-v1.0.0.zip` | SGC-ProofPack-v1.0.0 | `bafybeie24uclq3mtszfhndmzlege2bv6bidordteemo7ycp3g54isihseu` |
+| `SGC_Structure_Deployed_Filled.zip` | SGC_Structure_Deployed_Filled | `bafybeicllksfo7g6iiohqvbaybjcvt7j53dqkj4liftxlewsamkgc2uqvy` |
+
+To ensure immutability and verifiable origin, all key structure files are mirrored on IPFS with their respective CIDs.  
+Use any public IPFS gateway (e.g., [ipfs.io](https://ipfs.io)) and replace `<CID>` with the hash to retrieve the file.
