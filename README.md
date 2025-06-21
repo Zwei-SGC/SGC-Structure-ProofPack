@@ -46,3 +46,7 @@ SGC Constructive Core is protected under the declared license and may only be us
 
 To ensure immutability and verifiable origin, all key structure files are mirrored on IPFS with their respective CIDs.  
 Use any public IPFS gateway (e.g., [ipfs.io](https://ipfs.io)) and replace `<CID>` with the hash to retrieve the file.
+
+These CIDs serve as immutable proofs of origin for the SGC language structures and ensure transparency and trust in the construct's authenticity.
+
+
