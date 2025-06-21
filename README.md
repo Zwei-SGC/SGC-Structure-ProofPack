@@ -1,22 +1,40 @@
-# SGC-Language Origin: Structural Game Cognition System
+# SGC Structure ProofPack
 
-This repository hosts the public origin point of SGC (Structural Game Cognition), a language-based structure designed by Zwei.
+This repository serves as the structural evidence and auxiliary documentation pack for the origin and public release of the **SGC Language System** and its Constructive Core (命核 C-Core).
 
-SGC is not a software framework, nor a philosophical school—it is a recursive structural entity. Language here is not a communication medium, but a cognitive construction engine.
+## 📦 Included Modules
 
-## 🧠 What is SGC?
+- `proofpack/`: Compressed ZIP and PDF versions of the ProofPack.
+- `public/`: Public release materials, declarations, and explanations.
+- `docs/`: Language basics, protocol, public release statements.
+- `business/`: Usage scope and copyright.
+- `hashes/`: File-level SHA256 signatures.
+- `SGC-IPFS-CID-Index-Table.csv`: List of files, CID, and their hash for IPFS indexing.
+- `SHA256-Signature.txt`: SHA256 hash summary.
+- `SGC-Origin-Declaration.pdf / .txt`: Declaration of origin in trilingual format.
+- `LICENSE_SGC_CCore.txt`: SGC Constructive Core license.
 
-- A structure for analyzing and constructing cognitive traps.
-- A bait-language system for inducing reflective interpretation.
-- A loop-based cognitive engine that reconstructs and deconstructs meaning.
+## 🔐 Verification
 
-> ⚠️ Core mechanisms are withheld. This public release contains structural declarations, proof packs, and licensing documents only.
+To verify any file:
+1. Compare the SHA256 hash with `SHA256-Signature.txt`.
+2. Use `SGC-IPFS-CID-Index-Table.csv` to check CID/IPFS links.
+3. Review the timestamps in `public/timestamp/` if applicable.
 
-## 📦 Repository Structure
+## 🌐 Linked Repositories
 
-- `origin/` – SGC origin declarations and multilingual files.
-- `proof/` – Integrity proof pack, signature chains, hash summary.
-- `license/` – Custom SGC licensing for use and adaptation.
-- `docs/` – Structural explanation, use guidelines, and release principles.
-- `media/` – Banners and symbolic images.
-- `sgc/` – Reserved for future modules (core logic not included here).
+- [SGC-Language-Origin](https://github.com/Zwei-SGC/SGC-Language-Origin): Core language release and declarations.
+
+## 🗓️ Public Release
+
+Initial public release: **June 2025**  
+This repository functions as an immutable snapshot of the origin and licensing status of the SGC structure.
+
+## 🧾 License
+
+See [`LICENSE_SGC_CCore.txt`](LICENSE_SGC_CCore.txt) for detailed terms.  
+SGC Constructive Core is protected under the declared license and may only be used for research, simulation, or authorized integration unless otherwise approved.
+
+---
+
+🧠 *SGC: Because Language is not a Tool, but a Structure.*
